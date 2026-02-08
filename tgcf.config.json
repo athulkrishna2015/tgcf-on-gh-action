@@ -1,0 +1,287 @@
+{
+  "pid": 0,
+  "login": {
+    "API_ID": 12345,
+    "API_HASH": "REPLACED_BY_ACTION",
+    "user_type": 1,
+    "phone_no": 91,
+    "USERNAME": "",
+    "SESSION_STRING": "REPLACED_BY_ACTION",
+    "BOT_TOKEN": ""
+  },
+  "admins": [],
+  "forwards": [
+    {
+      "con_name": "OK bro (piro)",
+      "use_this": true,
+      "source": "-1002726550105",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 139262,
+      "end": 0
+    },
+    {
+      "con_name": "PSA Rips",
+      "use_this": true,
+      "source": "-1002438581038",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 1984,
+      "end": 0
+    },
+    {
+      "con_name": "PSA File x1 V2",
+      "use_this": true,
+      "source": "-1002805412416",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 2298,
+      "end": 0
+    },
+    {
+      "con_name": "PiRO Lite \u26a1\ufe0f",
+      "use_this": true,
+      "source": "-1002277453357",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 12329,
+      "end": 0
+    },
+    {
+      "con_name": "TG Files",
+      "use_this": true,
+      "source": "-1002439173562",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 6669,
+      "end": 0
+    },
+    {
+      "con_name": "porn drive",
+      "use_this": true,
+      "source": "-1001098270440",
+      "dest": [
+        -1002200137688
+      ],
+      "offset": 87900,
+      "end": 0
+    },
+    {
+      "con_name": "eroticon",
+      "use_this": true,
+      "source": "-1001170620390",
+      "dest": [
+        -1002200137688
+      ],
+      "offset": 178826,
+      "end": 0
+    },
+    {
+      "con_name": "xxx photo",
+      "use_this": true,
+      "source": "-1001141966599",
+      "dest": [
+        -1002200137688
+      ],
+      "offset": 124241,
+      "end": 0
+    },
+    {
+      "con_name": "bunny",
+      "use_this": true,
+      "source": "-1001338881486",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 6384,
+      "end": 0
+    },
+    {
+      "con_name": "Anime time",
+      "use_this": true,
+      "source": "-1001917948339",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 23353,
+      "end": 0
+    },
+    {
+      "con_name": "tg",
+      "use_this": true,
+      "source": "-1002033945909",
+      "dest": [
+        -1002508022413
+      ],
+      "offset": 50612,
+      "end": 0
+    },
+    {
+      "con_name": "linker",
+      "use_this": true,
+      "source": "-1002088617339",
+      "dest": [
+        -1002508022413
+      ],
+      "offset": 4134,
+      "end": 0
+    },
+    {
+      "con_name": "file to link provate",
+      "use_this": true,
+      "source": "-1002056481875",
+      "dest": [
+        -1002508022413
+      ],
+      "offset": 597,
+      "end": 0
+    },
+    {
+      "con_name": "tamil movies",
+      "use_this": true,
+      "source": "-1002100337503",
+      "dest": [
+        -1002508022413
+      ],
+      "offset": 4610,
+      "end": 0
+    },
+    {
+      "con_name": "SNR rips",
+      "use_this": true,
+      "source": "-1001829913504",
+      "dest": [
+        -1002508022413
+      ],
+      "offset": 4724,
+      "end": 0
+    },
+    {
+      "con_name": "TMV TBL log",
+      "use_this": true,
+      "source": "-1002572695183",
+      "dest": [
+        -1002508022413
+      ],
+      "offset": 10814,
+      "end": 0
+    },
+    {
+      "con_name": "Public porn archive",
+      "use_this": true,
+      "source": "-1001833322802",
+      "dest": [
+        -1002200137688
+      ],
+      "offset": 793443,
+      "end": 0
+    },
+    {
+      "con_name": "malluworld",
+      "use_this": true,
+      "source": "-1003177380821",
+      "dest": [
+        -1003163598572
+      ],
+      "offset": 1671,
+      "end": 0
+    },
+    {
+      "con_name": "Mn files Public db 2",
+      "use_this": true,
+      "source": "-1003392628051",
+      "dest": [
+        -1003342271707
+      ],
+      "offset": 125058,
+      "end": 0
+    },
+    {
+      "con_name": "Mn files V2",
+      "use_this": true,
+      "source": "-1002422052037",
+      "dest": [
+        -1003342271707
+      ],
+      "offset": 329605,
+      "end": 0
+    },
+    {
+      "con_name": "Shelby kuttan",
+      "use_this": true,
+      "source": "-1002310882853",
+      "dest": [
+        -1002121156744
+      ],
+      "offset": 1048,
+      "end": 0
+    }
+  ],
+  "show_forwarded_from": false,
+  "mode": 1,
+  "live": {
+    "sequential_updates": false,
+    "delete_sync": false,
+    "delete_on_edit": ".deleteMe"
+  },
+  "past": {
+    "delay": 0
+  },
+  "plugins": {
+    "filter": {
+      "check": true,
+      "users": {
+        "blacklist": [],
+        "whitelist": []
+      },
+      "files": {
+        "blacklist": [],
+        "whitelist": [
+          "document",
+          "video",
+          "audio",
+          "photo"
+        ]
+      },
+      "text": {
+        "blacklist": [],
+        "whitelist": [],
+        "case_sensitive": false,
+        "regex": false
+      }
+    },
+    "fmt": {
+      "check": false,
+      "style": "preserve"
+    },
+    "mark": {
+      "check": false,
+      "image": "image.png",
+      "position": "centre",
+      "frame_rate": 15
+    },
+    "ocr": {
+      "check": false
+    },
+    "replace": {
+      "check": false,
+      "text": {},
+      "text_raw": "",
+      "regex": false
+    },
+    "caption": {
+      "check": false,
+      "header": "",
+      "footer": ""
+    }
+  },
+  "bot_messages": {
+    "start": "Hi! I am alive",
+    "bot_help": "For details visit github.com/aahnik/tgcf"
+  }
+}
